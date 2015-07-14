@@ -318,4 +318,4 @@ def _sanitize_name(name):
 
 __plugin_name__ = "MatterSlice"
 __plugin_version__ = "0.1"
-__plugin_implementations__ = [MatterSlicePlugin()]
+__plugin_implementation__ = [MatterSlicePlugin()]
